@@ -1,3 +1,5 @@
+SELECT * FROM dept_tab;
+
 --Insert rows into table dept_tab
 INSERT INTO dept_tab VALUES ( 10,'Administration', 200, 1700);
 
